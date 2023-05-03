@@ -1,0 +1,83 @@
+[
+	{
+		"id": 1,
+		"name": "Sanjeev Kapoor",
+		"image": "https://www.sanjeevkapoor.com/images/Chef_Sanjeev_Kapoor1.jpg",
+		"experience": "Over 30 years",
+		"recipes": 10000,
+		"like": 200000,
+		"bio": "Sanjeev Kapoor is a celebrity chef, entrepreneur, and television personality. He is widely known for his cooking shows, cookbooks, and popularizing Indian cuisine worldwide."
+	},
+	{
+		"id": 2,
+		"name": "Vikas Khanna",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "Over 20 years",
+		"recipes": 5000,
+		"like": 150000,
+		"bio": "Vikas Khanna is an award-winning Michelin-starred chef, restaurateur, and cookbook author. He is also known for his philanthropic work and promoting Indian cuisine globally."
+	},
+	{
+		"id": 3,
+		"name": "Garima Arora",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "8 years",
+		"recipes": 100,
+		"like": 1000,
+		"bio": "Garima Arora is an Indian chef who became the first Indian woman to receive a Michelin star. She is known for her modern Indian cuisine and has worked in several Michelin-starred restaurants around the world."
+	},
+	{
+		"id": 4,
+		"name": "Kunal Kapoor",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "15+ years",
+		"recipes": 300,
+		"like": 2000,
+		"bio": "Kunal Kapoor is a celebrity chef and television personality, known for hosting several cooking shows on television. He is also the founder of the restaurant chain, The Yellow Chilli, and has authored several cookbooks."
+	},
+	{
+		"id": 5,
+		"name": "Pankaj Bhadouria",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "10+ years",
+		"recipes": 200,
+		"like": 1500,
+		"bio": "Pankaj Bhadouria is a chef, author, and television personality, known for winning the first season of MasterChef India. She has written several cookbooks and hosted cooking shows on television."
+	},
+	{
+		"id": 6,
+		"name": "Ranveer Brar",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "Over 15 years",
+		"recipes": 3000,
+		"like": 100000,
+		"bio": "Ranveer Brar is a popular celebrity chef, television host, and author. He has worked in some of the finest kitchens in India and abroad, and has been a judge on several cooking shows."
+	},
+	{
+		"id": 7,
+		"name": "Madhur Jaffrey",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "Over 50 years",
+		"recipes": 500,
+		"like": 50000,
+		"bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is widely regarded as one of the foremost authorities on Indian cuisine, and has authored several cookbooks on the subject."
+	},
+	{
+		"id": 8,
+		"name": "Harpal Singh Sokhi",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "Over 25 years",
+		"recipes": 2000,
+		"like": 75000,
+		"bio": "Harpal Singh Sokhi is a popular chef, restaurateur, and television personality. He is known for his lively personality and unique take on traditional Indian cuisine, and has hosted several cooking shows on television."
+	},
+	{
+		"id": 9,
+		"name": "Atul Kochhar",
+		"image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+		"experience": "Over 30 years",
+		"recipes": 1000,
+		"like": 50000,
+		"bio": "Atul Kochhar is a Michelin-starred chef, restaurateur, and television personality. He has worked in some of the most prestigious kitchens in London, and is known for his modern take on Indian cuisine."
+	}
+]
