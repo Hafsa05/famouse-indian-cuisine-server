@@ -7,6 +7,7 @@
 		"recipes": 10000,
 		"like": 200000,
 		"bio": "Sanjeev Kapoor is a celebrity chef, entrepreneur, and television personality. He is widely known for his cooking shows, cookbooks, and popularizing Indian cuisine worldwide.",
+		
 		"chef_recipe": [
 			{
 				"recipe_id": 11,
