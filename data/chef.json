@@ -88,7 +88,40 @@
 		"experience": "8 years",
 		"recipes": 100,
 		"like": 1000,
-		"bio": "Garima Arora is an Indian chef who became the first Indian woman to receive a Michelin star. She is known for her modern Indian cuisine and has worked in several Michelin-starred restaurants around the world."
+		"bio": "Garima Arora is an Indian chef who became the first Indian woman to receive a Michelin star. She is known for her modern Indian cuisine and has worked in several Michelin-starred restaurants around the world.",
+		"chef_recipe": [
+			{
+				"recipe_id": 31,
+				"recipe_name": "Chole Bhature",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chickpeas, ii. Flour, iii. Spices iv. Yogurt, v. Oil"
+				],
+				"cooking_process": "Soak chickpeas overnight, cook them in a pressure cooker with spices. For the bhatura, mix flour, yogurt, and spices. Knead the dough and let it rest for a few hours. Roll out the dough and deep-fry the bhaturas. Serve with chole.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 32,
+				"recipe_name": "Aloo Gobi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Potatoes, ii. Cauliflower, iii. Onion, iv. Tomatoes, iv. Spices"
+				],
+				"cooking_process": "1. Parboil potatoes and cauliflower. 2. Saute onion and tomatoes in spices. 3. Add potatoes and cauliflower. 4. Cook until tender. 5. Serve hot with rice or naan.",
+				"rating": 4.4
+			},
+			{
+				"recipe_id": 33,
+				"recipe_name": "Paneer Tikka",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Paneer, ii. Bell peppers, iii. Onion, iv. Yogurt, v. Spices"
+				],
+				"cooking_process": "1. Marinate paneer and vegetables in spices and yogurt. 2. Grill until charred. 3. Serve hot with chutney.",
+				"rating": 4.6
+			}
+		]
+		
 	},
 	{
 		"id": 4,
@@ -97,7 +130,40 @@
 		"experience": "15+ years",
 		"recipes": 300,
 		"like": 2000,
-		"bio": "Kunal Kapoor is a celebrity chef and television personality, known for hosting several cooking shows on television. He is also the founder of the restaurant chain, The Yellow Chilli, and has authored several cookbooks."
+		"bio": "Kunal Kapoor is a celebrity chef and television personality, known for hosting several cooking shows on television. He is also the founder of the restaurant chain, The Yellow Chilli, and has authored several cookbooks.",
+		"chef_recipe": [
+			{
+				"recipe_id": 41,
+				"recipe_name": "Butter Chicken",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chicken, ii. Butter, iii. Tomatoes, iv. Cream, v. Spices."
+				],
+				"cooking_process": "Marinate chicken in a mix of spices and yogurt, grill until golden. In a separate pan, sauté tomatoes, onions, ginger, and garlic. Add cream, butter, and spices to the pan and cook until the sauce thickens. Add the chicken to the sauce and cook until tender.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 42,
+				"recipe_name": "Rajma Chawal",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Kidney Beans, ii. Rice, iii. Tomatoes, iv. Onions, v. Spices"
+				],
+				"cooking_process": "Soak kidney beans overnight, cook them in a pressure cooker with spices. Cook rice separately. Sauté onions, tomatoes, and spices in a separate pan. Add the cooked kidney beans to the pan and cook until the sauce thickens. Serve with rice.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 43,
+				"recipe_name": "Chicken Biryani",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chicken, ii. Basmati Rice iii. Onion iv. Tomatoes v. Spices"
+				],
+				"cooking_process": "1. Marinate chicken in spices and yogurt. 2. Cook rice and fry onion. 3. Layer rice, chicken, and fried onion in a pot. 4. Cook on low heat until done. 5. Serve hot with raita.",
+				"rating": 4.5
+			}
+		]
+		
 	},
 	{
 		"id": 5,
@@ -106,7 +172,39 @@
 		"experience": "10+ years",
 		"recipes": 200,
 		"like": 1500,
-		"bio": "Pankaj Bhadouria is a chef, author, and television personality, known for winning the first season of MasterChef India. She has written several cookbooks and hosted cooking shows on television."
+		"bio": "Pankaj Bhadouria is a chef, author, and television personality, known for winning the first season of MasterChef India. She has written several cookbooks and hosted cooking shows on television.",
+		"chef_recipe": [
+			{
+				"recipe_id": 51,
+				"recipe_name": "Tandoori Chicken",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. 1 whole chicken, skin removed and cleaned, ii. 1 cup plain yogurt, iii. 2 tbsp ginger-garlic paste iv. 1 tbsp garam masala, v.1 tsp turmeric powder"
+				],
+				"cooking_process": "Mix yogurt, ginger-garlic paste, garam masala, turmeric powder, salt, and red chili powder. Marinate the chicken in the mixture for 6 hours. Preheat the oven to 450°F. Thread the chicken pieces onto skewers and place on a baking tray. Roast for 20-25 minutes, until cooked through. Serve hot with mint chutney.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 52,
+				"recipe_name": "Mutton Kacchi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. 2 kg mutton ii. 2 cups basmati rice iii. 1 cup ghee iv. 2 tbsp ginger paste v.1 tbsp garlic paste"
+				],
+				"cooking_process": "Marinate the mutton in yogurt, ginger-garlic paste, and spices for 6 hours. Soak the rice in water for 30 minutes. Heat ghee in a large pot, add onions and fry till golden brown. Add the marinated mutton and cook for 10 minutes. Layer the rice over the mutton, add saffron milk and seal the pot with dough. Cook on low heat for 45 minutes. Serve hot with raita.",
+				"rating": 4.8
+			},
+			{
+				"recipe_id": 53,
+				"recipe_name": "Barfi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. 2 cups milk powder, ii. 2 and a 1/2 cups of heavy cream, iii. 1 cup of sugar, iv. 1 cup of ghee, v. 1 tsp cardamom powder"
+				],
+				"cooking_process": "Grease a pan with ghee. Heat ghee in a pan, add milk powder and roast for 3-4 minutes. Add heavy cream, sugar, and cardamom powder. Mix well and cook for 5-6 minutes, stirring continuously. Pour the mixture into the greased pan, and spread evenly. Garnish with chopped nuts and let it cool for 2-3 hours. Cut into pieces and serve.",
+				"rating": 4.7
+			}
+		]
 	},
 	{
 		"id": 6,
@@ -115,7 +213,39 @@
 		"experience": "Over 15 years",
 		"recipes": 3000,
 		"like": 100000,
-		"bio": "Ranveer Brar is a popular celebrity chef, television host, and author. He has worked in some of the finest kitchens in India and abroad, and has been a judge on several cooking shows."
+		"bio": "Ranveer Brar is a popular celebrity chef, television host, and author. He has worked in some of the finest kitchens in India and abroad, and has been a judge on several cooking shows.",
+		"chef_recipe": [
+			{
+				"recipe_id": 61,
+				"recipe_name": "Chole Bhature",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chickpeas, ii. Flour, iii. Spices iv. Yogurt, v. Oil"
+				],
+				"cooking_process": "Soak chickpeas overnight, cook them in a pressure cooker with spices. For the bhatura, mix flour, yogurt, and spices. Knead the dough and let it rest for a few hours. Roll out the dough and deep-fry the bhaturas. Serve with chole.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 62,
+				"recipe_name": "Aloo Gobi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Potatoes, ii. Cauliflower, iii. Onion, iv. Tomatoes, iv. Spices"
+				],
+				"cooking_process": "1. Parboil potatoes and cauliflower. 2. Saute onion and tomatoes in spices. 3. Add potatoes and cauliflower. 4. Cook until tender. 5. Serve hot with rice or naan.",
+				"rating": 4.4
+			},
+			{
+				"recipe_id": 63,
+				"recipe_name": "Paneer Tikka",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Paneer, ii. Bell peppers, iii. Onion, iv. Yogurt, v. Spices"
+				],
+				"cooking_process": "1. Marinate paneer and vegetables in spices and yogurt. 2. Grill until charred. 3. Serve hot with chutney.",
+				"rating": 4.6
+			}
+		]
 	},
 	{
 		"id": 7,
@@ -124,7 +254,39 @@
 		"experience": "Over 50 years",
 		"recipes": 500,
 		"like": 50000,
-		"bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is widely regarded as one of the foremost authorities on Indian cuisine, and has authored several cookbooks on the subject."
+		"bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is widely regarded as one of the foremost authorities on Indian cuisine, and has authored several cookbooks on the subject.",
+		"chef_recipe": [
+			{
+				"recipe_id": 71,
+				"recipe_name": "Butter Chicken",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chicken, ii. Butter, iii. Tomatoes, iv. Cream, v. Spices."
+				],
+				"cooking_process": "Marinate chicken in a mix of spices and yogurt, grill until golden. In a separate pan, sauté tomatoes, onions, ginger, and garlic. Add cream, butter, and spices to the pan and cook until the sauce thickens. Add the chicken to the sauce and cook until tender.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 72,
+				"recipe_name": "Rajma Chawal",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Kidney Beans, ii. Rice, iii. Tomatoes, iv. Onions, v. Spices"
+				],
+				"cooking_process": "Soak kidney beans overnight, cook them in a pressure cooker with spices. Cook rice separately. Sauté onions, tomatoes, and spices in a separate pan. Add the cooked kidney beans to the pan and cook until the sauce thickens. Serve with rice.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 73,
+				"recipe_name": "Chicken Biryani",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chicken, ii. Basmati Rice iii. Onion iv. Tomatoes v. Spices"
+				],
+				"cooking_process": "1. Marinate chicken in spices and yogurt. 2. Cook rice and fry onion. 3. Layer rice, chicken, and fried onion in a pot. 4. Cook on low heat until done. 5. Serve hot with raita.",
+				"rating": 4.5
+			}
+		]
 	},
 	{
 		"id": 8,
@@ -133,7 +295,39 @@
 		"experience": "Over 25 years",
 		"recipes": 2000,
 		"like": 75000,
-		"bio": "Harpal Singh Sokhi is a popular chef, restaurateur, and television personality. He is known for his lively personality and unique take on traditional Indian cuisine, and has hosted several cooking shows on television."
+		"bio": "Harpal Singh Sokhi is a popular chef, restaurateur, and television personality. He is known for his lively personality and unique take on traditional Indian cuisine, and has hosted several cooking shows on television.",
+		"chef_recipe": [
+			{
+				"recipe_id": 81,
+				"recipe_name": "Tandoori Chicken",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. 1 whole chicken, skin removed and cleaned, ii. 1 cup plain yogurt, iii. 2 tbsp ginger-garlic paste iv. 1 tbsp garam masala, v.1 tsp turmeric powder"
+				],
+				"cooking_process": "Mix yogurt, ginger-garlic paste, garam masala, turmeric powder, salt, and red chili powder. Marinate the chicken in the mixture for 6 hours. Preheat the oven to 450°F. Thread the chicken pieces onto skewers and place on a baking tray. Roast for 20-25 minutes, until cooked through. Serve hot with mint chutney.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 82,
+				"recipe_name": "Mutton Kacchi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. 2 kg mutton ii. 2 cups basmati rice iii. 1 cup ghee iv. 2 tbsp ginger paste v.1 tbsp garlic paste"
+				],
+				"cooking_process": "Marinate the mutton in yogurt, ginger-garlic paste, and spices for 6 hours. Soak the rice in water for 30 minutes. Heat ghee in a large pot, add onions and fry till golden brown. Add the marinated mutton and cook for 10 minutes. Layer the rice over the mutton, add saffron milk and seal the pot with dough. Cook on low heat for 45 minutes. Serve hot with raita.",
+				"rating": 4.8
+			},
+			{
+				"recipe_id": 83,
+				"recipe_name": "Barfi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. 2 cups milk powder, ii. 2 and a 1/2 cups of heavy cream, iii. 1 cup of sugar, iv. 1 cup of ghee, v. 1 tsp cardamom powder"
+				],
+				"cooking_process": "Grease a pan with ghee. Heat ghee in a pan, add milk powder and roast for 3-4 minutes. Add heavy cream, sugar, and cardamom powder. Mix well and cook for 5-6 minutes, stirring continuously. Pour the mixture into the greased pan, and spread evenly. Garnish with chopped nuts and let it cool for 2-3 hours. Cut into pieces and serve.",
+				"rating": 4.7
+			}
+		]
 	},
 	{
 		"id": 9,
@@ -142,6 +336,38 @@
 		"experience": "Over 30 years",
 		"recipes": 1000,
 		"like": 50000,
-		"bio": "Atul Kochhar is a Michelin-starred chef, restaurateur, and television personality. He has worked in some of the most prestigious kitchens in London, and is known for his modern take on Indian cuisine."
+		"bio": "Atul Kochhar is a Michelin-starred chef, restaurateur, and television personality. He has worked in some of the most prestigious kitchens in London, and is known for his modern take on Indian cuisine.",
+		"chef_recipe": [
+			{
+				"recipe_id": 91,
+				"recipe_name": "Chole Bhature",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Chickpeas, ii. Flour, iii. Spices iv. Yogurt, v. Oil"
+				],
+				"cooking_process": "Soak chickpeas overnight, cook them in a pressure cooker with spices. For the bhatura, mix flour, yogurt, and spices. Knead the dough and let it rest for a few hours. Roll out the dough and deep-fry the bhaturas. Serve with chole.",
+				"rating": 4.5
+			},
+			{
+				"recipe_id": 92,
+				"recipe_name": "Aloo Gobi",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Potatoes, ii. Cauliflower, iii. Onion, iv. Tomatoes, iv. Spices"
+				],
+				"cooking_process": "1. Parboil potatoes and cauliflower. 2. Saute onion and tomatoes in spices. 3. Add potatoes and cauliflower. 4. Cook until tender. 5. Serve hot with rice or naan.",
+				"rating": 4.4
+			},
+			{
+				"recipe_id": 93,
+				"recipe_name": "Paneer Tikka",
+				"recipe_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=684&q=80",
+				"ingredients": [
+					"i. Paneer, ii. Bell peppers, iii. Onion, iv. Yogurt, v. Spices"
+				],
+				"cooking_process": "1. Marinate paneer and vegetables in spices and yogurt. 2. Grill until charred. 3. Serve hot with chutney.",
+				"rating": 4.6
+			}
+		]
 	}
 ]
